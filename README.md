@@ -94,6 +94,10 @@ Ensure you have the following installed:
 - Dark mode support.
 - Voice search support.
 
+**Deployment**
+The project is deployed at: https://youtube-clone-raj.netlify.app/
+Project Source Code: https://github.com/rajmandal276/youtube_clone.git
+
 ## Best Practices
 - **Component Reusability**: Components are modular and reusable.
 - **State Management**: Context API is used to manage global states efficiently.
