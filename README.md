@@ -101,7 +101,7 @@ Ensure you have the following installed:
 - **Code Organization**: Project follows a clean and scalable folder structure.
 - **Error Handling**: API calls handle errors gracefully with fallback UI.
 
-## Styling & Theming
+## Styles & Themes
 - The project utilizes Tailwind CSS for styling.
 - Custom utility classes are defined in `tailwind.config.js`.
 - Dark mode can be implemented via Tailwind’s dark mode configuration.
