@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Steps to Install
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/rajmandal276/youtube_clone.git>
    cd youtube_clone
    ```
 2. Install dependencies:
